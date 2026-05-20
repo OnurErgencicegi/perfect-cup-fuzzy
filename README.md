@@ -20,7 +20,7 @@ Sistem; su sıcaklığı, malzeme miktarı ve su sertliği gibi 3 giriş değiş
 ```
 ├── .streamlit/
 │   └── config.toml       # Şık Camgöbeği (Teal) tema konfigürasyonu
-├── app.py                # Streamlit GUI ve Bulanık Mantık motoru kaynak kodu
+├── main.py                # Streamlit GUI ve Bulanık Mantık motoru kaynak kodu
 ├── README.md             # Proje genel tanıtım ve kurulum belgesi
 └── PROJE_RAPORU.md       # Akademik formatta hazırlanmış detaylı dönem raporu
 ```
