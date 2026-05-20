@@ -68,7 +68,7 @@ pip install requirements
 ### Uygulamayı Başlatma
 
 ```bash
-streamlit run app.py
+streamlit run main.py
 ```
 
 Tarayıcınızda `http://localhost:8501` adresine gidin.
