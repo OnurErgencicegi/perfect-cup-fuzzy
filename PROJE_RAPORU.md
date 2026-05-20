@@ -7,7 +7,6 @@
 
 **Hazırlayan:** Onur Ergençiçeği
 
-**Ders Sorumlusu:** Dönem Projesi Değerlendirme Kurulu
 
 **Öğrenci Numarası:** 22430070017
 
