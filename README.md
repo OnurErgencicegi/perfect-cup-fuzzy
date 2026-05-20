@@ -62,7 +62,7 @@ Sistem; su sıcaklığı, malzeme miktarı ve su sertliği gibi 3 giriş değiş
 ### Gereksinimler
 
 ```bash
-pip install streamlit scikit-fuzzy numpy matplotlib
+pip install requirements
 ```
 
 ### Uygulamayı Başlatma
