@@ -4,7 +4,6 @@
 **Mersin Üniversitesi — Bilişim Sistemleri ve Teknolojileri Bölümü**
 **Bulanık Mantık Dersi Dönem Projesi**
 **Hazırlayan:** Onur Ergençiçeği
-**Teslim Tarihi:** 21.05.2026 — 13:00
 
 ---
 
