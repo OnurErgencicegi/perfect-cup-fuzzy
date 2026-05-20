@@ -62,7 +62,7 @@ Sistem; su sıcaklığı, malzeme miktarı ve su sertliği gibi 3 giriş değiş
 ### Gereksinimler
 
 ```bash
-pip install requirements
+pip install -r requirements.txt
 ```
 
 ### Uygulamayı Başlatma
